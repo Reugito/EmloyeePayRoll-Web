@@ -8,7 +8,7 @@ body{
     background-color: white;
 
 }
-.heade-content{
+.header-content{
     display: flex;
     flex-direction: row;
     justify-content : center;
@@ -70,7 +70,7 @@ body{
 
 
 }
-.rowContent{
+.row-content{
     display: flex;
     flex-direction: row;
     margin-bottom: 10px;
@@ -116,7 +116,7 @@ body{
 .profile{
     width: 40px;
     border-radius: 50px;
-    margin-left: 12px;
+    margin-left: 5px;
 }
 
 select{
